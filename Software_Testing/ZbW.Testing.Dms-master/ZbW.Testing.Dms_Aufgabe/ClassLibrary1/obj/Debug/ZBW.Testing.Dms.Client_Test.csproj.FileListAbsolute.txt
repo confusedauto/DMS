@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Documents\schule\4_semester\Testate\offen\Software_Testing\ZbW.Testing.Dms-master\ZbW.Testing.Dms_Aufgabe\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\marco\OneDrive\Documents\schule\4_semester\Testate\offen\Software_Testing\ZbW.Testing.Dms-master\ZbW.Testing.Dms_Aufgabe\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\marco\OneDrive\Documents\schule\4_semester\Testate\offen\Software_Testing\ZbW.Testing.Dms-master\ZbW.Testing.Dms_Aufgabe\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\marco\OneDrive\Documents\schule\4_semester\Testate\offen\Software_Testing\ZbW.Testing.Dms-master\ZbW.Testing.Dms_Aufgabe\ClassLibrary1\bin\Debug\ZbW.Testing.Dms.Client.exe
+C:\Users\marco\OneDrive\Documents\schule\4_semester\Testate\offen\Software_Testing\ZbW.Testing.Dms-master\ZbW.Testing.Dms_Aufgabe\ClassLibrary1\bin\Debug\Prism.dll
+C:\Users\marco\OneDrive\Documents\schule\4_semester\Testate\offen\Software_Testing\ZbW.Testing.Dms-master\ZbW.Testing.Dms_Aufgabe\ClassLibrary1\bin\Debug\ZbW.Testing.Dms.Client.pdb
+C:\Users\marco\OneDrive\Documents\schule\4_semester\Testate\offen\Software_Testing\ZbW.Testing.Dms-master\ZbW.Testing.Dms_Aufgabe\ClassLibrary1\bin\Debug\ZbW.Testing.Dms.Client.exe.config
+C:\Users\marco\OneDrive\Documents\schule\4_semester\Testate\offen\Software_Testing\ZbW.Testing.Dms-master\ZbW.Testing.Dms_Aufgabe\ClassLibrary1\bin\Debug\nunit.framework.pdb
+C:\Users\marco\OneDrive\Documents\schule\4_semester\Testate\offen\Software_Testing\ZbW.Testing.Dms-master\ZbW.Testing.Dms_Aufgabe\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\marco\OneDrive\Documents\schule\4_semester\Testate\offen\Software_Testing\ZbW.Testing.Dms-master\ZbW.Testing.Dms_Aufgabe\ClassLibrary1\bin\Debug\Prism.xml
+C:\Users\marco\OneDrive\Documents\schule\4_semester\Testate\offen\Software_Testing\ZbW.Testing.Dms-master\ZbW.Testing.Dms_Aufgabe\ClassLibrary1\obj\Debug\ZBW.Testing.Dms.Client_Test.csprojAssemblyReference.cache
+C:\Users\marco\OneDrive\Documents\schule\4_semester\Testate\offen\Software_Testing\ZbW.Testing.Dms-master\ZbW.Testing.Dms_Aufgabe\ClassLibrary1\obj\Debug\ZBW.Testing.Dms.Client_Test.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documents\schule\4_semester\Testate\offen\Software_Testing\ZbW.Testing.Dms-master\ZbW.Testing.Dms_Aufgabe\ClassLibrary1\obj\Debug\ZBW.Testing.Dms.Client_Test.csproj.CopyComplete
+C:\Users\marco\OneDrive\Documents\schule\4_semester\Testate\offen\Software_Testing\ZbW.Testing.Dms-master\ZbW.Testing.Dms_Aufgabe\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\marco\OneDrive\Documents\schule\4_semester\Testate\offen\Software_Testing\ZbW.Testing.Dms-master\ZbW.Testing.Dms_Aufgabe\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
